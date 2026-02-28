@@ -1,6 +1,8 @@
 git unit für den start (Test)
+
+git init // for initializizing repository
 git add >file>
 git commit -m "your commit message"
 
-M= modify --> auf "git add" um zu ändern
+M= modify --> git commit -m .....
 U= Unchange
