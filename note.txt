@@ -1,3 +1,6 @@
 git unit für den start (Test)
 git add >file>
 git commit -m "your commit message"
+
+M= modify --> auf "git add" um zu ändern
+U= Unchange
