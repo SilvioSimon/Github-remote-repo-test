@@ -7,4 +7,8 @@ git commit -m "your commit message"
 M= modify --> git commit -m .....
 U= Unchange
 
+<<<<<<< HEAD
 git resset --soft HEAD~1
+=======
+get resset --soft HEAD~1
+>>>>>>> c8cfcf828eb371116133bd2bbfca1d1a35069ddb
