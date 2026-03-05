@@ -7,6 +7,7 @@ git commit -m "your commit message"
 M= modify --> git commit -m .....
 U= Unchange
 
+Developer: Reload Window
 
 git resset --soft HEAD~1  // Nur der Commit wird entfernt. Die Änderungen bleiben im Staging-Bereich.
 git resset --mixed HEAD~1 // Der Commit wird entfernt und die Änderungen werden aus der Staging Area entfernt, bleiben aber im Arbeitsverzeichnis.
