@@ -8,9 +8,7 @@
 
 ## 📌 About the Project
 
-Write a small introduction about your project.
-
-- Website for Rock band
+- Creat website for Rock band
 - Who is it for? --> For me (owner)
 
 This project is a simple demonstration repository for learning GitHub workflow and project structure.
