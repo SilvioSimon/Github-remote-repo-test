@@ -14,3 +14,5 @@ git resset --mixed HEAD~1 // Der Commit wird entfernt und die Änderungen werden
 git resset --hard HEAD~1 // Der Commit wird entfernt und alle Änderungen werden gelöscht.
 
 git revert <commit-id> // git revert erstellt einen neuen Commit, der die Änderungen eines früheren Commits rückgängig macht, ohne die Git-History umzuschreiben.
+
+git clone GitHub-URL
