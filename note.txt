@@ -17,3 +17,9 @@ git revert <commit-id> // git revert erstellt einen neuen Commit, der die Änder
 
 git clone GitHub-URL
 git clone GitHub-URL . // aktuelle Ordner kopieren im GitHub
+
+resolve merge conflict --> 
+- Accept Current Change → deine Version behalten
+- Accept Incoming Change → Version aus dem anderen Branch nehmen
+- Accept Both Changes → beide behalten
+- Compare Changes → Unterschiede vergleichen 🔍
