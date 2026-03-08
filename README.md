@@ -10,14 +10,15 @@
 
 <h3 align="center">
 - Create website for Rock band
-- Who is it for? --> For me (owner)</h3>
+- Who is it for? --> For me (owner)
 
 This project is a simple demonstration repository for learning GitHub workflow and project structure.
 
----
+---</h3>
 
 <h2 align="center">⚙️ Technologies</h2>
-
+<h3 align="center">
 - HTML  
 - CSS  
 - Git / GitHub
+</h3>
