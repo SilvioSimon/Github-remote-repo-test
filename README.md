@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 About the Project
+<h2 align="center">📌 About the Project</h2>
 
 - Create website for Rock band
 - Who is it for? --> For me (owner)
@@ -15,9 +15,8 @@ This project is a simple demonstration repository for learning GitHub workflow a
 
 ---
 
-## ⚙️ Technologies
+<h2 align="center">⚙️ Technologies</h2>
 
-- HTML
-- CSS
+- HTML  
+- CSS  
 - Git / GitHub
-
