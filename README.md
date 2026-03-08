@@ -10,7 +10,6 @@
 
 <h3 align="center">
 - Create website for Rock band
-- Who is it for? --> For me (owner)
 
 This project is a simple demonstration repository for learning GitHub workflow and project structure.
 
