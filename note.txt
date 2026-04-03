@@ -9,9 +9,9 @@ U= Unchange
 
 (Developer: Reload Window)
 
-git resset --soft HEAD~1  // Nur der Commit wird entfernt. Die Änderungen bleiben im Staging-Bereich.
-git resset --mixed HEAD~1 // Der Commit wird entfernt und die Änderungen werden aus der Staging Area entfernt, bleiben aber im Arbeitsverzeichnis.
-git resset --hard HEAD~1 // Der Commit wird entfernt und alle Änderungen werden gelöscht.
+git reset --soft HEAD~1  // Nur der Commit wird entfernt. Die Änderungen bleiben im Staging-Bereich.
+git reset --mixed HEAD~1 // Der Commit wird entfernt und die Änderungen werden aus der Staging Area entfernt, bleiben aber im Arbeitsverzeichnis.
+git reset --hard HEAD~1 // Der Commit wird entfernt und alle Änderungen werden gelöscht.
 
 git revert <commit-id> // git revert erstellt einen neuen Commit, der die Änderungen eines früheren Commits rückgängig macht, ohne die Git-History umzuschreiben.
 
